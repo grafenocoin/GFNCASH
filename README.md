@@ -1,0 +1,2 @@
+# GFNCASH
+GrafenoCoin GFNCASH 
